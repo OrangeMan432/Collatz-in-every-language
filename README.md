@@ -19,3 +19,6 @@ Bonus points for writing a more optimized version of code in any programming lan
 Compact code doesn't earn any points. Your code should be reasonably readable unless its an esoteric language like JavaScript or Python.
 
 Discussion is happening on the KiLAB Gaming discord, as this challenge was started there recently. Come join and talk Collatz! https://discord.gg/fkAW2zstyQ
+
+## Contributing
+Open a PR with your program/project that you wish to contribute. Make sure it follows the rules and is actually "worth" putting up. Make sure to add credit for yourself somewhere!
